@@ -16,7 +16,7 @@
 
 
 
-### Hello World!👋 Welocom to Joowoniese GITHUB
+### Hello World!👋 Welcome to Joowoniese GITHUB
  - 👩‍💻 Software (Artificial Intelligence)
  - 💻 AIoT LAB
 
