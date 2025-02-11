@@ -15,6 +15,8 @@
  <p>ㅤ</p>
  
  [![Joowoniese GitHub stats](https://github-readme-stats.vercel.app/api?username=Joowoniese&show_icons=true&hide=contribs,prs&rank_icon=github&title_color=355296&icon_color=355296&text_color=595959&hide_border=true&)](https://github.com/joowoniese/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joowoniese&layout=compact&title_color=000000&icon_color=355296&text_color=595959&hide_border=true&hide=jupyter%20notebook)
+
  <p>ㅤ</p>
 
  
@@ -67,6 +69,5 @@
 <p>ㅤ</p>
 <p>ㅤ</p>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joowoniese&layout=compact&title_color=000000&icon_color=355296&text_color=595959&hide_border=true&hide=jupyter%20notebook)
 
 </div>
