@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=85&duration=6500&pause=500&color=19439AFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Joowoniese+Github)](https://git.io/typing-svg)
 
 
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fagreeable-wombat-04f.notion.site%2FJoowoniese-Development-Log-18d1ee82a1d080afb78edfd0b26ab638&count_bg=%237098B2&title_bg=%23226C9D&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Fjoowonieselife%2F&count_bg=%23B87EAD&title_bg=%23B93AA1&icon=instagram.svg&icon_color=%23E7E7E7&title=Instagram&edge_flat=false"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjoowoniese.tistory.com&count_bg=%23FF967A&title_bg=%23FF5527&icon=bloglovin.svg&icon_color=%23E7E7E7&title=BLOG&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fagreeable-wombat-04f.notion.site%2FJoowoniese-Development-Log-18d1ee82a1d080afb78edfd0b26ab638&count_bg=%239F9F9F&title_bg=%23424242&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false"/></a>
 
 <p>$\bf{\large{\color{#153880FF}Hello\ World!👋\ Welcome\ to\ Joowoniese\ GitHub🌍}}$</p>
 
