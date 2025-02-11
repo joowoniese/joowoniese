@@ -11,7 +11,8 @@
 
  <p>$\bf\cal{💻 Software (Artificial\ Intelligence)}$</p>
  <p>$\bf\cal{🔭 AIoT\ LAB}$</p>
-
+ <p>ㅤ</p>
+ 
  [![Joowoniese GitHub stats](https://github-readme-stats.vercel.app/api?username=Joowoniese&show_icons=true&hide=contribs,prs&rank_icon=github&title_color=355296&icon_color=355296&text_color=595959&hide_border=true&)](https://github.com/joowoniese/github-readme-stats)
  <p>ㅤ</p>
 
@@ -62,7 +63,8 @@
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?=flat-square&logo=mediapipe&logoColor=white"/>
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?=flat-square&logo=googlecloud&logoColor=white"/>
 <p>ㅤ</p>
-
+<p>ㅤ</p>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joowoniese&layout=compact&title_color=000000&icon_color=355296&text_color=595959&hide_border=true)
 
 
