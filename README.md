@@ -1,31 +1,47 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2&height=150&section=header&text=Joowoniese%GITHUB&fontSize=70&fontColor=FFFFFF"/>
+<div align=center>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=85&duration=6500&pause=500&color=19439AFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Joowoniese+Github)](https://git.io/typing-svg)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoowoniese%2FAlbumart_GencerativeModel&count_bg=%2397C093&title_bg=%232D9626&icon=pytorch.svg&icon_color=%23FFFFFF&title=AACI-Gen&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhabitual-thunbergia-bde.notion.site%2F138b6176e28a80d78160f4db65f23f85&count_bg=%2393B9C0&title_bg=%232D889A&icon=hackhands.svg&icon_color=%23FFFFFF&title=JoowonieseNotion&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoowoniese%2FMRFScore_XGBoost_RegressionModel&count_bg=%2393A8C0&title_bg=%23265896&icon=pytorch.svg&icon_color=%23FFFFFF&title=MFRScoreXGBoost&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoowoniese%2FLanguageIdentification&count_bg=%239396C0&title_bg=%23282696&icon=pytorch.svg&icon_color=%23FFFFFF&title=ASLIModel&edge_flat=false)](https://hits.seeyoufarm.com)
+<p>$\bf{\large{\color{#153880FF}Hello\ World!👋\ Welcome\ to\ Joowoniese\ GitHub🌍}}$</p>
+ <p>$\small\cal{💻 Software (Artificial\ Intelligence)}$</p>
+ <p>$\small\cal{🔭 AIoT\ LAB}$</p>
 
-![Static Badge](https://custom-icon-badges.demolab.com/badge/python-red.svg?logo=python&logoColor=white)
-![Static Badge](https://custom-icon-badges.demolab.com/badge/pytorch-orange.svg?logo=pytorch&logoColor=white)
-![Static Badge](https://custom-icon-badges.demolab.com/badge/tensorflow-yellow.svg?logo=tensorflow&logoColor=white)
-![Static Badge](https://custom-icon-badges.demolab.com/badge/cudnn-green.svg?logo=card&logoColor=white)
-![Static Badge](https://custom-icon-badges.demolab.com/badge/numpy-blue.svg?logo=numpy&logoColor=white)
-![Static Badge](https://custom-icon-badges.demolab.com/badge/matplotlib-purple.svg?logo=matplotlib&logoColor=white)
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fagreeable-wombat-04f.notion.site%2FJoowoniese-Development-Log-18d1ee82a1d080afb78edfd0b26ab638&count_bg=%237098B2&title_bg=%23226C9D&icon=notion.svg&icon_color=%23E7E7E7&title=Joowoniese+Notion&edge_flat=false"/></a>
 
 
+ [![Joowoniese GitHub stats](https://github-readme-stats.vercel.app/api?username=Joowoniese&show_icons=true&theme=dracula&hide=contribs,prs&rank_icon=github)](https://github.com/joowoniese/github-readme-stats)
 
-
-### Hello World!👋 Welcome to Joowoniese GITHUB
- - 👩‍💻 Software (Artificial Intelligence)
- - 💻 AIoT LAB
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+ 
 
 
 
 
+ <p>$\cal{✨Skills✨}$</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA-76B900?=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-000000?=flat-square&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?=flat-square&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?=flat-square&logo=numpy&logoColor=white"/>
+<p></p>
+<img src="https://img.shields.io/badge/Linux-FCC624?=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scipy-8CAAE6?=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?=flat-square&logo=pandas&logoColor=white"/>
+<p></p>
+<p></p>
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joowoniese&layout=donut&theme=dracula)
+
+
+
+</div>
 
 
 
