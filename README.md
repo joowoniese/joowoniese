@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Pycharm-000000?=flat-square&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+<p></p>
 <img src="https://img.shields.io/badge/VisualStudio-7d64b9?=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-377cb8?=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?=flat-square&logo=xcode&logoColor=white"/>
