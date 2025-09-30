@@ -2,10 +2,6 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=85&duration=6500&pause=500&color=19439AFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Joowoniese+Github)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fagreeable-wombat-04f.notion.site%2FJoowoniese-Development-Log-18d1ee82a1d080afb78edfd0b26ab638&count_bg=%238D8D8D&title_bg=%233E3E3E&icon=notion.svg&icon_color=%23FFFFFF&title=Notion&edge_flat=false)](https://agreeable-wombat-04f.notion.site/Joowoniese-Development-Log-18d1ee82a1d080afb78edfd0b26ab638?pvs=4)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Fjoowonieselife%2F&count_bg=%23CCA7DF&title_bg=%237D2FA7&icon=instagram.svg&icon_color=%23FFFFFF&title=Instagram&edge_flat=false)](https://www.instagram.com/joowonieselife/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjoowoniese.tistory.com&count_bg=%239BC3DF&title_bg=%232690DB&icon=bloglovin.svg&icon_color=%23FFFFFF&title=Blog&edge_flat=false)](https://joowoniese.tistory.com/)
-
 
 
 <p>$\bf{\large{\color{#153880FF}Hello\ World!👋\ Welcome\ to\ Joowoniese\ GitHub🌍}}$</p>
