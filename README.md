@@ -1,69 +1,64 @@
-<div align=center>
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=85&duration=6500&pause=500&color=19439AFF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Joowoniese+Github)](https://git.io/typing-svg)
+<div align="center">
 
+<!-- 타이핑 헤더 애니메이션 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=65&duration=5000&pause=500&color=19439A&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Joowon's+Research+Space;Advancing+Audio+AI+%26+Signal+Processing)](https://git.io/typing-svg)
 
+## 🧠 Hello World! Welcome to My GitHub Repository 🌍
 
-<p>$\bf{\large{\color{#153880FF}Hello\ World!👋\ Welcome\ to\ Joowoniese\ GitHub🌍}}$</p>
+주요 연구 및 개발 분야는 **딥러닝 기반 오디오 신호처리, 강화학습 시스템, 생체 신호(EEG/rPPG) 분석**입니다.  
+데이터 효율적인 알고리즘과 경량화된 엔지니어링을 통해 현실적인 인공지능 솔루션을 연구합니다.
 
- <p>$\bf\cal{💻 Software (Artificial\ Intelligence)}$</p>
- <p>$\bf\cal{🔭 AIoT\ LAB}$</p>
- <p>ㅤ</p>
- 
- [![Joowoniese GitHub stats](https://github-readme-stats.vercel.app/api?username=Joowoniese&show_icons=true&hide=contribs,prs&rank_icon=github&title_color=355296&icon_color=355296&text_color=595959&hide_border=true&)](https://github.com/joowoniese/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joowoniese&layout=compact&title_color=000000&icon_color=355296&text_color=595959&hide_border=true&hide=jupyter%20notebook)
+👨‍💻 **Software Engineering (Artificial Intelligence)** | 🔭 **AIoT LAB Researcher**
 
- <p>ㅤ</p>
+<br>
 
- 
- <p>$\cal{✨Stats✨}$</p>
+<!-- 깃허브 스탯 분석 매핑 -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://github.com/joowoniese">
+        <img src="https://github-readme-stats.vercel.app/api?username=Joowoniese&show_icons=true&hide=contribs,prs&rank_icon=github&title_color=19439A&icon_color=19439A&text_color=595959&hide_border=true" alt="Joowon's Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/joowoniese">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joowoniese&layout=compact&title_color=19439A&icon_color=19439A&text_color=595959&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://img.shields.io/badge/Python-3776AB?=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?=flat-square&logo=C&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-007396?=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-663399?=flat-square&logo=Css&logoColor=white"/>
-<p></p>
-<img src="https://img.shields.io/badge/Pycharm-000000?=flat-square&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-<p></p>
-<img src="https://img.shields.io/badge/VisualStudio-7d64b9?=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/VisualStudioCode-377cb8?=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?=flat-square&logo=xcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?=flat-square&logo=GitHub&logoColor=white"/>
-<p></p>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?=flat-square&logo=Google Colab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?=flat-square&logo=androidstudio&logoColor=white"/>
-<p>ㅤ</p>
-<p>ㅤ</p>
+<br>
+<br>
 
+<!-- 핵심 전문 연구 분야 요약 섹션 (취업용 핵심 강조 기법) -->
+### 🎯 Research Interests & Core Expertise
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Acoustic & Audio AI** | Voice Conversion (SVC), Active Noise Cancellation (ANC), Language ID (LID), Deepfake Detection |
+| **Bio-Signal Processing** | Personalized 4-Channel EEG System, Remote Photoplethysmography (rPPG Estimation) |
+| **Reinforcement Learning** | DDPG Agent Control, Emotional Healing & Adaptive Audio Generation Frameworks |
 
- <p>$\cal{✨Skills✨}$</p>
- 
-<img src="https://img.shields.io/badge/NVIDIA-76B900?=flat-square&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?=flat-square&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?=flat-square&logo=keras&logoColor=white"/>
-<p></p>
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scipy-8CAAE6?=flat-square&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-3F4F75?=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-000000?=flat-square&logo=json&logoColor=white"/>
-<p></p>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?=flat-square&logo=mediapipe&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoogleCloud-4285F4?=flat-square&logo=googlecloud&logoColor=white"/>
-<p>ㅤ</p>
-<p>ㅤ</p>
- 
+<br>
+<hr>
+<br>
+
+### 🛠️ Tech Stacks & Frameworks
+
+<!-- 깨진 주소 및 아이콘 대소문자 정밀 교정 버전 -->
+#### 💻 Languages & Operating Systems
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+
+#### 🔬 AI & Data Engineering
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=flat-square&logo=python&logoColor=white"/>
+
+#### 🔧 Tools & Infrastructures
+<img src="https://img.shields.io/badge/NVIDIA_GPUs-76B900?style=flat-square&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+
+<br>
+<br>
+
+<!-- 방문자 카운터 (포트폴리오 신뢰성 제고) -->
+![🔑 Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoowoniese&count_bg=%2319439A&title_bg=%23555555&icon=&icon_color=%23ECECEC&title=Hits&edge_flat=true)
 
 </div>
