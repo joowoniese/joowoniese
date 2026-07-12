@@ -29,9 +29,9 @@
 
 <!-- Core Research Expertise -->
 ### 🎯 Research Fields & Expertise
-*   **Acoustic AI & Audio Security:** Voice Conversion (SVC), Active Noise Cancellation (ANC), Language Identification (LID), Deepfake Detection[cite: 1]
-*   **Bio-Signal Processing:** Personalized 4-Channel EEG System, Remote Photoplethysmography (rPPG Estimation)
-*   **Reinforcement Learning:** DDPG Control Agent, Adaptive Emotional Audio Generation Frameworks
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f399_fe0f/512.webp" width="18" height="18"> **Acoustic AI & Audio Security:** Voice Conversion (SVC), Active Noise Cancellation (ANC), Language Identification (LID), Deepfake Detection[cite: 1]
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.webp" width="18" height="18"> **Bio-Signal Processing:** Personalized 4-Channel EEG System, Remote Photoplethysmography (rPPG Estimation)
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" width="18" height="18"> **Reinforcement Learning:** DDPG Control Agent, Adaptive Emotional Audio Generation Frameworks
 
 <br>
 
@@ -39,13 +39,13 @@
 ### 🗂️ Publications & Patents
 
 #### 📄 Journal Articles
-*   **Joowon Oh**, Jaeho Lee. "Mitigating ANC pressure effect in Active Noise Cancellation using diffusion-based generative models," *Measurement*, Vol. 259, 119599, 2026.[cite: 1]
-*   **Joowon Oh**, Jaeho Lee. "Multilingual Mobility: Audio-Based Language ID for Automotive Systems," *Applied Sciences*, Vol. 15, No. 16, 9209, 2025.
-*   **Joowon Oh**, Nam-kyun Baik, Jaeho Lee. "Consideration for CNN-Based Detection of AI Cover Deepfake Audio Leveraging Voice Conversion Vulnerabilities," *Journal of Advanced Navigation Technology*, Vol. 29, No. 6, pp. 816-825, 2025.
-*   **Joowon Oh**, Jaeho Lee. "Calibration-Efficient Personalized EEG Classification Using only 4 Channels and Minimal Subject-Specific Data," *IEEE Transactions and Journals* (Under Review), 2026.
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4dd/512.webp" width="16" height="16"> **Joowon Oh**, Jaeho Lee. "Mitigating ANC pressure effect in Active Noise Cancellation using diffusion-based generative models," *Measurement*, Vol. 259, 119599, 2026.[cite: 1]
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.webp" width="16" height="16"> **Joowon Oh**, Jaeho Lee. "Multilingual Mobility: Audio-Based Language ID for Automotive Systems," *Applied Sciences*, Vol. 15, No. 16, 9209, 2025.
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.webp" width="16" height="16"> **Joowon Oh**, Nam-kyun Baik, Jaeho Lee. "Consideration for CNN-Based Detection of AI Cover Deepfake Audio Leveraging Voice Conversion Vulnerabilities," *Journal of Advanced Navigation Technology*, Vol. 29, No. 6, pp. 816-825, 2025.
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" width="16" height="16"> **Joowon Oh**, Jaeho Lee. "Calibration-Efficient Personalized EEG Classification Using only 4 Channels and Minimal Subject-Specific Data," *IEEE Transactions and Journals* (Under Review), 2026.
 
 #### 💡 Patents
-*   *Please insert your registered or pending patent titles and numbers here* (e.g., **Joowon Oh**, Jaeho Lee. "Apparatus and Method for..." Registration No. 10-XXXXXXX)
+*   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" width="16" height="16"> *Please insert your registered or pending patent titles and numbers here* (e.g., **Joowon Oh**, Jaeho Lee. "Apparatus and Method for..." Registration No. 10-XXXXXXX)
 
 <br>
 <hr>
