@@ -1,23 +1,20 @@
 <div align="center">
 
-<!-- 타이핑 헤더 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=65&duration=5000&pause=500&color=19439A&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Joowon's+Research+Space;Advancing+Audio+AI+%26+Signal+Processing)](https://git.io/typing-svg)
+<!-- Typing Header Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=75&duration=5000&pause=500&color=19439A&center=true&vCenter=true&width=800&height=100&lines=Juwon's+Research+Space;Advancing+Deep+Learning+%26+Signal+Processing)](https://git.io/typing-svg)
 
-## 🧠 Hello World! Welcome to My GitHub Repository 🌍
+## 🧠 Hello World! Welcome to My GitHub 🌍
 
-주요 연구 및 개발 분야는 **딥러닝 기반 오디오 신호처리, 강화학습 시스템, 생체 신호(EEG/rPPG) 분석**입니다.  
-데이터 효율적인 알고리즘과 경량화된 엔지니어링을 통해 현실적인 인공지능 솔루션을 연구합니다.
-
-👨‍💻 **Software Engineering (Artificial Intelligence)** | 🔭 **AIoT LAB Researcher**
+💻 Software (Artificial Intelligence) | 🔭 AIoT LAB
 
 <br>
 
-<!-- 깃허브 스탯 분석 매핑 -->
+<!-- GitHub Stats & Languages -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <a href="https://github.com/joowoniese">
-        <img src="https://github-readme-stats.vercel.app/api?username=Joowoniese&show_icons=true&hide=contribs,prs&rank_icon=github&title_color=19439A&icon_color=19439A&text_color=595959&hide_border=true" alt="Joowon's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Joowoniese&show_icons=true&hide=contribs,prs&rank_icon=github&title_color=19439A&icon_color=19439A&text_color=595959&hide_border=true" alt="Juwon's Stats" />
       </a>
     </td>
     <td>
@@ -29,15 +26,26 @@
 </table>
 
 <br>
+
+<!-- Core Research Expertise -->
+### 🎯 Research Fields & Expertise
+*   **Acoustic AI & Audio Security:** Voice Conversion (SVC), Active Noise Cancellation (ANC), Language Identification (LID), Deepfake Detection[cite: 1]
+*   **Bio-Signal Processing:** Personalized 4-Channel EEG System, Remote Photoplethysmography (rPPG Estimation)
+*   **Reinforcement Learning:** DDPG Control Agent, Adaptive Emotional Audio Generation Frameworks
+
 <br>
 
-<!-- 핵심 전문 연구 분야 요약 섹션 (취업용 핵심 강조 기법) -->
-### 🎯 Research Interests & Core Expertise
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Acoustic & Audio AI** | Voice Conversion (SVC), Active Noise Cancellation (ANC), Language ID (LID), Deepfake Detection |
-| **Bio-Signal Processing** | Personalized 4-Channel EEG System, Remote Photoplethysmography (rPPG Estimation) |
-| **Reinforcement Learning** | DDPG Agent Control, Emotional Healing & Adaptive Audio Generation Frameworks |
+<!-- Publications & Patents Section -->
+### 🗂️ Publications & Patents
+
+#### 📄 Journal Articles
+*   **Joowon Oh**, Jaeho Lee. "Mitigating ANC pressure effect in Active Noise Cancellation using diffusion-based generative models," *Measurement*, Vol. 259, 119599, 2026.[cite: 1]
+*   **Joowon Oh**, Jaeho Lee. "Multilingual Mobility: Audio-Based Language ID for Automotive Systems," *Applied Sciences*, Vol. 15, No. 16, 9209, 2025.
+*   **Joowon Oh**, Nam-kyun Baik, Jaeho Lee. "Consideration for CNN-Based Detection of AI Cover Deepfake Audio Leveraging Voice Conversion Vulnerabilities," *Journal of Advanced Navigation Technology*, Vol. 29, No. 6, pp. 816-825, 2025.
+*   **Joowon Oh**, Jaeho Lee. "Calibration-Efficient Personalized EEG Classification Using only 4 Channels and Minimal Subject-Specific Data," *IEEE Transactions and Journals* (Under Review), 2026.
+
+#### 💡 Patents
+*   *Please insert your registered or pending patent titles and numbers here* (e.g., **Joowon Oh**, Jaeho Lee. "Apparatus and Method for..." Registration No. 10-XXXXXXX)
 
 <br>
 <hr>
@@ -45,9 +53,8 @@
 
 ### 🛠️ Tech Stacks & Frameworks
 
-<!-- 깨진 주소 및 아이콘 대소문자 정밀 교정 버전 -->
-#### 💻 Languages & Operating Systems
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+#### 💻 Languages & OS
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 
 #### 🔬 AI & Data Engineering
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=flat-square&logo=python&logoColor=white"/>
@@ -58,7 +65,7 @@
 <br>
 <br>
 
-<!-- 방문자 카운터 (포트폴리오 신뢰성 제고) -->
+<!-- Visitor Counter -->
 ![🔑 Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoowoniese&count_bg=%2319439A&title_bg=%23555555&icon=&icon_color=%23ECECEC&title=Hits&edge_flat=true)
 
 </div>
