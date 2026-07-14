@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Header Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=75&duration=5000&pause=500&color=19439A&center=true&vCenter=true&width=800&height=100&lines=Joowon's Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yellowtail&size=75&duration=5000&pause=500&color=19439A&center=true&vCenter=true&width=800&height=100&lines="Joowon's Github")](https://git.io/typing-svg)
 
 ## 🧠 Hello World! Welcome to My GitHub 🌍
 
